@@ -12,7 +12,6 @@ end
 class Truck < Vehicle 
 end 
 
-
 truck1 = Truck.new(1994)
 puts truck1.year
 
